@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+/**
+ * Leetcode 3146 - Permutation Difference between Two Strings
+ * https://leetcode.com/problems/permutation-difference-between-two-strings/description/
+ */
+
 int findPermutationDifference(char* s, char* t) {
     int sl[26];
     int tl[26];
