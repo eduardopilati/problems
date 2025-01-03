@@ -6,7 +6,6 @@ using namespace std;
 
 /**
  * Leetcode 2559. Count Vowel Strings in Ranges
- * https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/
  */
 class Solution {
 public:

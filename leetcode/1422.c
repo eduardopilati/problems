@@ -4,7 +4,6 @@
 
 /**
  * Leetcode 1422. Maximum Score After Splitting a String
- * https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/
  */
 
 int maxScore(char* s) {
